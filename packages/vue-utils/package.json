@@ -1,0 +1,9 @@
+{
+  "name": "@ryterpv/vue-utils",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@ryterpv/browser-utils": "^0.0.0"
+  }
+}
