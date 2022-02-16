@@ -5,5 +5,6 @@
   "license": "MIT",
   "dependencies": {
     "@ryterpv/browser-utils": "^1.0.0"
-  }
+  },
+  "gitHead": "2c1e913bf5423971b823a781497a8e69e962e582"
 }

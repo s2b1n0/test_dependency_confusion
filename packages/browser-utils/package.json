@@ -2,5 +2,6 @@
   "name": "@ryterpv/browser-utils",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "2c1e913bf5423971b823a781497a8e69e962e582"
 }
